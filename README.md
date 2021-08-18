@@ -10,7 +10,7 @@ I'm a Full Stack Developer & IoT maker, interested in Human Psychology and anyth
 
 - 💬 Ask me about **Anything**
 
-- ⚡ Fun fact: **I have changed my LP school after joining 3rd day after being afraid of upcoming vaccination drive, convincing my parents that their teaching is poor :)**
+- ⚡ Fun fact: **I have changed my LP school after joining 3rd day, being afraid of upcoming vaccination drive, convincing my parents that their teaching is poor :)**
 
 ### Web Development Languages and Tools:
 
